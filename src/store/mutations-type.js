@@ -1,0 +1,9 @@
+export const ADD_GOODS="ADD_GOODS";
+export const CHANGE_GOODS_NUM="CHANGE_GOODS_NUM";
+export const CLEAR_GOODS="CLEAR_GOODS";
+export const CHOOSE_GOODS="CHOOSE_GOODS";
+export const CHOOSE_ALL="CHOOSE_ALL";
+export const USER_INFO="USER_INFO";
+export const INIT_USER_INFO="INIT_USER_INFO";
+export const DEL_USERINFO="DEL_USERINFO";
+export const INIT_SHOPCART="INIT_SHOPCART";
